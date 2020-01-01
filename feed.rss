@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:17770990/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:17770990/sounds.rss?before=48027539" rel="next" type="application/rss+xml"/>
+        <title>koptercast</title>
+        <link>http://soundcloud.com/koptercast</link>
+        <pubDate>Wed, 01 Jan 2020 23:05:09 +0000</pubDate>
+        <lastBuildDate>Wed, 01 Jan 2020 23:05:09 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>de</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Der einzig #gude Podcast zum Thema Kopter und andere mehr oder weniger autonome Fluggeräte.
+RSS unter http://feeds.soundcloud.com/users/soundcloud:users:17770990/sounds.rss</description>
+        <itunes:subtitle>Der einzig #gude Podcast zum Thema Kopter und and…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>koptercast</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>koptercast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000016110282-pqqvbp-original.png"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000016110282-pqqvbp-original.png</url>
+          <title>koptercast</title>
+          <link>http://soundcloud.com/koptercast</link>
+        </image>
+        <itunes:category text="Science"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/75367739</guid>
+      <title>Koptercast0.6 fpv</title>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/koptercast/koptercast0-6-fpv</link>
+      <itunes:duration>01:57:57</itunes:duration>
+      <itunes:author>koptercast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>
+#29C3
+* warthhos https://vimeo.com/warthox
+* flyduino http://flyduino.net/
+* 29c3 http://events.ccc.de/2013/01/11/the-congress-is-over-long-live-the-congress/
+* ligi https://twitter.com/mr_ligi
+* zeemote http://www.zeemote.com/
+* Space Mouse Android AR-Drone Steuerung https://github.com/ligi/SpaceAR.Drone
+* Space Mouse http://www.3dconnexion.com/products/spacemousepro.htm
+
+#FPV
+* Lost places Video: https://vimeo.com/35286785 https://vimeo.com/15926174
+* Fatshark Video Brillen http://www.fatshark.com/
+* epi osd http://www.mk-epi.de/index.php/Epi-OSD/en
+* Team Black sheep rekord 86.93KM!!! http://www.fpvmanuals.com/2011/04/12/team-black-sheep-flies-record-setting-86-93km/
+* Pirate Eye Brille http://www.fpvhobby.com/184-pirate-eye-lcd-goggle.html
+headplay 800x600 http://www.rangevideo.com/index.php?main_page=product_info&amp;products_id=218
+
+#Diversity:
+* 4fach ftw http://www.foxtechfpv.com/d584-58g-diversity-receiver-p-845.html
+
+##yellowjacket pro 
+* http://www.iftrontech.com/product_info.php?products_id=104
+* http://www.globe-flight.de/58-GHz-Iftrontech-Yellow-Jacket-Pro-A-V-Diversity-Empfaenger
+##oracle 
+* http://www.nghobbies.com/cart/index.php?main_page=product_info&amp;cPath=1_5_95&amp;products_id=106
+##airwave 
+* http://www.wireless-audio-video.com/
+
+* umbau 5.8 Kanalfrequenzen: http://der-frickler.net/modellbau/fpv/sky-rf
+
+* 3D FPV Camera  http://www.nghobbies.com/cart/index.php?main_page=product_info&amp;products_id=393
+
+* FPV over Rio http://www.youtube.com/watch?v=THAmM6pggt8
+* Trappy vom Team Black Sheep http://www.youtube.com/user/nastycop420
+
+#Team BlackSheep's TEATIME in London Kontroverse
+* Video: http://www.youtube.com/watch?v=ghDXBIy_BSM&amp;list=UUAMZOHjmiInGYjOplGhU38g&amp;index=6
+* https://plus.google.com/102647592947475728999/posts/cJFzE7w59BL
+* Chris Anderson Beitrag https://plus.google.com/+ChrisAnderson/posts/7qKHCXpWJ7G
+* Gelöschtes Video: http://www.vimeo.com/52183041 (BITTE WIEDER FINDEN) 
+* http://www.wiredevent.co.uk/wired/speakers/raphael-pirker
+
+* FPV Speed http://youtu.be/CWh3dWLvF28
+
+#Kameras:
+* http://www.globe-flight.de/GF-PX690-FPV-Kamera-690TVL-Pixim-Seawolf
+* http://www.ebay.de/itm/Pixim-SEAWOLF-Sensor-690TVL-HD-Ultra-WDR-Board-Kamera-Platinenkamera-OSD-3-6mm-/180870517665?pt=DE_Haus_Garten_Heimwerker_Sicherheitstechnik&amp;hash=item2a1cb913a1#ht_3980wt_923
+
+#Communities / Seiten
+* http://fpv-community.de/
+* http://eyefly.info/
+
+* Falko im Spreepark, 3rdPV: http://www.youtube.com/watch?v=4-THtNScACw&amp;list=UUIEbmJNeBj0c21srH9JwhOQ&amp;index=24
+* FPV Video aufgezeichnet am Boden (Original Video Qualität) http://www.youtube.com/watch?v=d2IaDuHbEWc
+</itunes:summary>
+      <itunes:subtitle>
+#29C3
+* warthhos https://vimeo.com/warthox
+* …</itunes:subtitle>
+      <description>
+#29C3
+* warthhos https://vimeo.com/warthox
+* flyduino http://flyduino.net/
+* 29c3 http://events.ccc.de/2013/01/11/the-congress-is-over-long-live-the-congress/
+* ligi https://twitter.com/mr_ligi
+* zeemote http://www.zeemote.com/
+* Space Mouse Android AR-Drone Steuerung https://github.com/ligi/SpaceAR.Drone
+* Space Mouse http://www.3dconnexion.com/products/spacemousepro.htm
+
+#FPV
+* Lost places Video: https://vimeo.com/35286785 https://vimeo.com/15926174
+* Fatshark Video Brillen http://www.fatshark.com/
+* epi osd http://www.mk-epi.de/index.php/Epi-OSD/en
+* Team Black sheep rekord 86.93KM!!! http://www.fpvmanuals.com/2011/04/12/team-black-sheep-flies-record-setting-86-93km/
+* Pirate Eye Brille http://www.fpvhobby.com/184-pirate-eye-lcd-goggle.html
+headplay 800x600 http://www.rangevideo.com/index.php?main_page=product_info&amp;products_id=218
+
+#Diversity:
+* 4fach ftw http://www.foxtechfpv.com/d584-58g-diversity-receiver-p-845.html
+
+##yellowjacket pro 
+* http://www.iftrontech.com/product_info.php?products_id=104
+* http://www.globe-flight.de/58-GHz-Iftrontech-Yellow-Jacket-Pro-A-V-Diversity-Empfaenger
+##oracle 
+* http://www.nghobbies.com/cart/index.php?main_page=product_info&amp;cPath=1_5_95&amp;products_id=106
+##airwave 
+* http://www.wireless-audio-video.com/
+
+* umbau 5.8 Kanalfrequenzen: http://der-frickler.net/modellbau/fpv/sky-rf
+
+* 3D FPV Camera  http://www.nghobbies.com/cart/index.php?main_page=product_info&amp;products_id=393
+
+* FPV over Rio http://www.youtube.com/watch?v=THAmM6pggt8
+* Trappy vom Team Black Sheep http://www.youtube.com/user/nastycop420
+
+#Team BlackSheep's TEATIME in London Kontroverse
+* Video: http://www.youtube.com/watch?v=ghDXBIy_BSM&amp;list=UUAMZOHjmiInGYjOplGhU38g&amp;index=6
+* https://plus.google.com/102647592947475728999/posts/cJFzE7w59BL
+* Chris Anderson Beitrag https://plus.google.com/+ChrisAnderson/posts/7qKHCXpWJ7G
+* Gelöschtes Video: http://www.vimeo.com/52183041 (BITTE WIEDER FINDEN) 
+* http://www.wiredevent.co.uk/wired/speakers/raphael-pirker
+
+* FPV Speed http://youtu.be/CWh3dWLvF28
+
+#Kameras:
+* http://www.globe-flight.de/GF-PX690-FPV-Kamera-690TVL-Pixim-Seawolf
+* http://www.ebay.de/itm/Pixim-SEAWOLF-Sensor-690TVL-HD-Ultra-WDR-Board-Kamera-Platinenkamera-OSD-3-6mm-/180870517665?pt=DE_Haus_Garten_Heimwerker_Sicherheitstechnik&amp;hash=item2a1cb913a1#ht_3980wt_923
+
+#Communities / Seiten
+* http://fpv-community.de/
+* http://eyefly.info/
+
+* Falko im Spreepark, 3rdPV: http://www.youtube.com/watch?v=4-THtNScACw&amp;list=UUIEbmJNeBj0c21srH9JwhOQ&amp;index=24
+* FPV Video aufgezeichnet am Boden (Original Video Qualität) http://www.youtube.com/watch?v=d2IaDuHbEWc
+</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/75367739-koptercast-koptercast0-6-fpv.mp3" length="84952620"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000038548023-plvu4v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/65409590</guid>
+      <title>Koptercast0.5 nodecopter.js</title>
+      <pubDate>Tue, 30 Oct 2012 21:39:16 +0000</pubDate>
+      <link>https://soundcloud.com/koptercast/koptercast0-5</link>
+      <itunes:duration>01:34:02</itunes:duration>
+      <itunes:author>koptercast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Wir reden über das nodecopter event mit Felix Geisendörfer.
+
+* first robotics http://www.usfirst.org/roboticsprograms/frc
+* ARDRone SDK 
+	* https://projects.ardrone.org/
+* http://nodejs.org/
+* V8 Engine http://en.wikipedia.org/wiki/V8_(JavaScript_engine)
+* DIYDrones PX4 Platform http://store.diydrones.com/category_s/63.htm
+	* offene Adapterboards für die ARDrone 
+* https://github.com/felixge/node-ar-drone
+* http://nodecopter.com/
+	* Photos 1 https://plus.google.com/u/0/photos/102647592947475728999/albums/5801009449848608833
+	* Photos 2 https://plus.google.com/photos/107012710192519215701/albums/5797983156265725345?authkey=CPbAwfmC75faBg 
+	* timelapse http://www.youtube.com/watch?v=t13jGeBAWrA
+* http://www.kamerakopter.de/
+* http://delicious.com/redirect?url=
+* Nodecopter Torero https://www.youtube.com/watch?v=ymlbNEL5TQQ
+* https://ohm2013.org/site/
+* Todo für Hoppel
+	* http://blog.perquin.com/blog/ardrone-motor-controller/
+* nodecopter bei Twitter: https://twitter.com/nodecopter/following
+* nodecopter im Web: http://nodecopter.com/
+* nodecopter team: http://nodecopter.com/core
+
+	</itunes:summary>
+      <itunes:subtitle>Wir reden über das nodecopter event mit Felix Gei…</itunes:subtitle>
+      <description>Wir reden über das nodecopter event mit Felix Geisendörfer.
+
+* first robotics http://www.usfirst.org/roboticsprograms/frc
+* ARDRone SDK 
+	* https://projects.ardrone.org/
+* http://nodejs.org/
+* V8 Engine http://en.wikipedia.org/wiki/V8_(JavaScript_engine)
+* DIYDrones PX4 Platform http://store.diydrones.com/category_s/63.htm
+	* offene Adapterboards für die ARDrone 
+* https://github.com/felixge/node-ar-drone
+* http://nodecopter.com/
+	* Photos 1 https://plus.google.com/u/0/photos/102647592947475728999/albums/5801009449848608833
+	* Photos 2 https://plus.google.com/photos/107012710192519215701/albums/5797983156265725345?authkey=CPbAwfmC75faBg 
+	* timelapse http://www.youtube.com/watch?v=t13jGeBAWrA
+* http://www.kamerakopter.de/
+* http://delicious.com/redirect?url=
+* Nodecopter Torero https://www.youtube.com/watch?v=ymlbNEL5TQQ
+* https://ohm2013.org/site/
+* Todo für Hoppel
+	* http://blog.perquin.com/blog/ardrone-motor-controller/
+* nodecopter bei Twitter: https://twitter.com/nodecopter/following
+* nodecopter im Web: http://nodecopter.com/
+* nodecopter team: http://nodecopter.com/core
+
+	</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/65409590-koptercast-koptercast0-5.mp3" length="67711284"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000033188064-0obs0s-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/58760705</guid>
+      <title>Koptercast0.4 - autoquad und andere News</title>
+      <pubDate>Wed, 05 Sep 2012 06:03:19 +0000</pubDate>
+      <link>https://soundcloud.com/koptercast/koptercast0-4</link>
+      <itunes:duration>01:06:00</itunes:duration>
+      <itunes:author>koptercast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>#29c3
+- NSFW Podcast 
+- http://not-safe-for-work.de/nsfw054-click-shabbat/
+
+#klangwolke
+- https://www.youtube.com/watch?v=v9M0ASzPjIU&amp;feature=player_embedded
+- Channel: https://www.youtube.com/user/ArsElectronica
+- Testflug https://www.youtube.com/watch?v=iAcReeCmFfM
+
+#autoquad
+- http://autoquad.org/
+- Lasttests http://www.youtube.com/user/SpeckyChemnitz
+- Kaufen http://flyduino.net/Autoquad-6-public-beta-Version
+- http://autoquad.org/wiki/wiki/autoquad-calibrations/
+- http://autoquad.org/wiki/wiki/autoquad-calibrations/dynamic-calibration/
+- QGroundcontrol http://qgroundcontrol.org/
+- http://en.wikipedia.org/wiki/Pulse-width_modulation
+- http://de.wikipedia.org/wiki/Pulsweitenmodulation
+
+#news
+- Ladybird mit multiwii: http://imageshack.us/photo/my-images/809/img1651a.jpg/
+- px4 von diydrones/3drobotics http://diydrones.com/profiles/blogs/introducing-the-px4-autopilot-system
+- ArdupilotMega 2.5 https://store.diydrones.com/product_p/br-ardupilotmega-04.htm
+- kk2.0 http://www.hobbyking.com/hobbyking/store/__24723__Hobbyking_KK2_0_Multi_rotor_LCD_Flight_Control_Board.html
+- Hoppel zeigt das Menü des KK2.0 http://www.youtube.com/watch?v=St3qstravs0
+- Hall of Shame http://gallery.mikrokopter.de/main.php/v/hall_of_shame/</itunes:summary>
+      <itunes:subtitle>#29c3
+- NSFW Podcast 
+- http://not-safe-for-work.…</itunes:subtitle>
+      <description>#29c3
+- NSFW Podcast 
+- http://not-safe-for-work.de/nsfw054-click-shabbat/
+
+#klangwolke
+- https://www.youtube.com/watch?v=v9M0ASzPjIU&amp;feature=player_embedded
+- Channel: https://www.youtube.com/user/ArsElectronica
+- Testflug https://www.youtube.com/watch?v=iAcReeCmFfM
+
+#autoquad
+- http://autoquad.org/
+- Lasttests http://www.youtube.com/user/SpeckyChemnitz
+- Kaufen http://flyduino.net/Autoquad-6-public-beta-Version
+- http://autoquad.org/wiki/wiki/autoquad-calibrations/
+- http://autoquad.org/wiki/wiki/autoquad-calibrations/dynamic-calibration/
+- QGroundcontrol http://qgroundcontrol.org/
+- http://en.wikipedia.org/wiki/Pulse-width_modulation
+- http://de.wikipedia.org/wiki/Pulsweitenmodulation
+
+#news
+- Ladybird mit multiwii: http://imageshack.us/photo/my-images/809/img1651a.jpg/
+- px4 von diydrones/3drobotics http://diydrones.com/profiles/blogs/introducing-the-px4-autopilot-system
+- ArdupilotMega 2.5 https://store.diydrones.com/product_p/br-ardupilotmega-04.htm
+- kk2.0 http://www.hobbyking.com/hobbyking/store/__24723__Hobbyking_KK2_0_Multi_rotor_LCD_Flight_Control_Board.html
+- Hoppel zeigt das Menü des KK2.0 http://www.youtube.com/watch?v=St3qstravs0
+- Hall of Shame http://gallery.mikrokopter.de/main.php/v/hall_of_shame/</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/58760705-koptercast-koptercast0-4.mp3" length="38370776"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000029744321-mlpc8k-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/53193854</guid>
+      <title>Koptercast0.3 - kleine Kopter</title>
+      <pubDate>Tue, 17 Jul 2012 21:37:45 +0000</pubDate>
+      <link>https://soundcloud.com/koptercast/koptercast0-3</link>
+      <itunes:duration>01:19:47</itunes:duration>
+      <itunes:author>koptercast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Notizen gibt es unter http://soundcloud.com/koptercast/koptercast0-3 oder http://piratenpad.de/p/koptercast03
+Links aus der Sendung:
+motodrone
+http://www.motodrone.org/
+
+Campus Party Europe in Berlin 2012 - #CPEurope - Campus Party Europa
+http://www.campus-party.eu/2012/startseite.html
+
+Campus Party Europe kommt nach Berlin - Tickets zu gewinnen | Gründerszene
+http://www.gruenderszene.de/allgemein/campus-party-europe-berlin
+
+HobbyKing R/C Hobby Store : Turnigy nano-tech 260mAh 1S 35-70C Lipo Pack (QR Ladybird/Genius CP/Mini CP)
+http://www.hobbyking.com/hobbyking/store/__24920__Turnigy_nano_tech_260mAh_1S_35_70C_Lipo_Pack_QR_Ladybird_Genius_CP_Mini_CP_.html
+
+HobbyKing R/C Hobby Store : Walkera QR Ladybird Ultra Micro Quadcopter RTF (Mode 1)
+http://www.hobbyking.com/hobbyking/store/__24649__Walkera_QR_Ladybird_Ultra_Micro_Quadcopter_RTF_Mode_1_.html
+
+MikroKopter - Forum: Freizone &amp; Offtopic » Dauerthread ... Nachteulen
+http://forum.mikrokopter.de/topic-post405394.html#post405394
+
+HobbyKing R/C Hobby Store : Turnigy Integrated PCB Plug and Play Micro-Quad (PNP)
+http://hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22780
+
+HobbyKing R/C Hobby Store : Turnigy Aerodrive SK3 - 2118-2250kv Brushless Outrunner Motor
+http://www.hobbyking.com/hobbyking/store/__18147__Turnigy_Aerodrive_SK3_2118_2250kv_Brushless_Outrunner_Motor.html
+
+Premium-Modellbau - Das Online-Fachgeschäft für Modellbauartikel : Produktsuche
+http://www.premium-modellbau.de/
+
+GoodLuckBuy.com
+http://www.goodluckbuy.com/
+
+Shrediquette - a multirotor MAV by W. Thielicke
+http://shrediquette.blogspot.de/
+
+Flyduino Shop
+http://flyduino.net/bestellabschluss.php?i=7f6b89c3b7f3d136d154c1e8926ca3755bd3e833
+
+NanoWii.. ATmega32u4 Based MultiWii FC, 38,90 €
+http://flyduino.net/NanoWii-ATmega32u4-Based-MultiWii-FC
+
+Falko's Mini XFunQuad - Documentation - OpenPilot Wiki
+http://wiki.openpilot.org/display/Doc/Falko%27s+Mini+XFunQuad
+
+Multi-Rotors - Documentation - OpenPilot Wiki
+http://wiki.openpilot.org/display/Doc/Multi-Rotors
+
+Quadrixette Nano
+http://www.eyefly.info/index.php?route=product/product&amp;product_id=51
+
+Eyefly FPV Onlineshop
+http://www.eyefly.info/
+
+Tumba's Page - DIY Drones
+http://diydrones.com/profile/Tumba
+
+Hand Held Quadcopter &quot;Wanze&quot; max. Dimension 10 inch - DIY Drones
+http://diydrones.com/forum/topics/hand-held-quadcopter-wanze-max-dimension-10-inch?xg_source=activity
+
+Etherpad Lite | koptercast03
+http://piratenpad.de/p/koptercast03</itunes:summary>
+      <itunes:subtitle>Notizen gibt es unter http://soundcloud.com/kopte…</itunes:subtitle>
+      <description>Notizen gibt es unter http://soundcloud.com/koptercast/koptercast0-3 oder http://piratenpad.de/p/koptercast03
+Links aus der Sendung:
+motodrone
+http://www.motodrone.org/
+
+Campus Party Europe in Berlin 2012 - #CPEurope - Campus Party Europa
+http://www.campus-party.eu/2012/startseite.html
+
+Campus Party Europe kommt nach Berlin - Tickets zu gewinnen | Gründerszene
+http://www.gruenderszene.de/allgemein/campus-party-europe-berlin
+
+HobbyKing R/C Hobby Store : Turnigy nano-tech 260mAh 1S 35-70C Lipo Pack (QR Ladybird/Genius CP/Mini CP)
+http://www.hobbyking.com/hobbyking/store/__24920__Turnigy_nano_tech_260mAh_1S_35_70C_Lipo_Pack_QR_Ladybird_Genius_CP_Mini_CP_.html
+
+HobbyKing R/C Hobby Store : Walkera QR Ladybird Ultra Micro Quadcopter RTF (Mode 1)
+http://www.hobbyking.com/hobbyking/store/__24649__Walkera_QR_Ladybird_Ultra_Micro_Quadcopter_RTF_Mode_1_.html
+
+MikroKopter - Forum: Freizone &amp; Offtopic » Dauerthread ... Nachteulen
+http://forum.mikrokopter.de/topic-post405394.html#post405394
+
+HobbyKing R/C Hobby Store : Turnigy Integrated PCB Plug and Play Micro-Quad (PNP)
+http://hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22780
+
+HobbyKing R/C Hobby Store : Turnigy Aerodrive SK3 - 2118-2250kv Brushless Outrunner Motor
+http://www.hobbyking.com/hobbyking/store/__18147__Turnigy_Aerodrive_SK3_2118_2250kv_Brushless_Outrunner_Motor.html
+
+Premium-Modellbau - Das Online-Fachgeschäft für Modellbauartikel : Produktsuche
+http://www.premium-modellbau.de/
+
+GoodLuckBuy.com
+http://www.goodluckbuy.com/
+
+Shrediquette - a multirotor MAV by W. Thielicke
+http://shrediquette.blogspot.de/
+
+Flyduino Shop
+http://flyduino.net/bestellabschluss.php?i=7f6b89c3b7f3d136d154c1e8926ca3755bd3e833
+
+NanoWii.. ATmega32u4 Based MultiWii FC, 38,90 €
+http://flyduino.net/NanoWii-ATmega32u4-Based-MultiWii-FC
+
+Falko's Mini XFunQuad - Documentation - OpenPilot Wiki
+http://wiki.openpilot.org/display/Doc/Falko%27s+Mini+XFunQuad
+
+Multi-Rotors - Documentation - OpenPilot Wiki
+http://wiki.openpilot.org/display/Doc/Multi-Rotors
+
+Quadrixette Nano
+http://www.eyefly.info/index.php?route=product/product&amp;product_id=51
+
+Eyefly FPV Onlineshop
+http://www.eyefly.info/
+
+Tumba's Page - DIY Drones
+http://diydrones.com/profile/Tumba
+
+Hand Held Quadcopter &quot;Wanze&quot; max. Dimension 10 inch - DIY Drones
+http://diydrones.com/forum/topics/hand-held-quadcopter-wanze-max-dimension-10-inch?xg_source=activity
+
+Etherpad Lite | koptercast03
+http://piratenpad.de/p/koptercast03</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/53193854-koptercast-koptercast0-3.mp3" length="49820290"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000026847163-38qw9x-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/50225854</guid>
+      <title>Koptercast0.2 - plattformen geschichtsstunde</title>
+      <pubDate>Tue, 19 Jun 2012 21:22:49 +0000</pubDate>
+      <link>https://soundcloud.com/koptercast/koptercast0-2</link>
+      <itunes:duration>01:48:42</itunes:duration>
+      <itunes:author>koptercast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Notizen gibt es unter http://piratenpad.de/p/koptercast02</itunes:summary>
+      <itunes:subtitle>Notizen gibt es unter http://piratenpad.de/p/kopt…</itunes:subtitle>
+      <description>Notizen gibt es unter http://piratenpad.de/p/koptercast02</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/50225854-koptercast-koptercast0-2.mp3" length="67555382"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000025318855-br2v6r-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/48027539</guid>
+      <title>Koptercast0.1 - landkamp3.12</title>
+      <pubDate>Wed, 30 May 2012 06:51:01 +0000</pubDate>
+      <link>https://soundcloud.com/koptercast/koptercast0-1</link>
+      <itunes:duration>01:01:58</itunes:duration>
+      <itunes:author>koptercast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Koptercast 0.1</itunes:summary>
+      <itunes:subtitle>Koptercast 0.1</itunes:subtitle>
+      <description>Koptercast 0.1</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/48027539-koptercast-koptercast0-1.mp3" length="38510479"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000024188386-9k0nbl-original.png"/>
+    </item>
+      </channel>
+    </rss>
